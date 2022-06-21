@@ -1,4 +1,4 @@
-import api from '../framework/services/index';
+ import api from '../framework/services/index';
 
 describe('Проверка импорта', () => {
   it('imports without error', () => {
