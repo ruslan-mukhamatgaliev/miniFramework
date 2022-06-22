@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"06b7f922d66e94e5c025e115796ffc83","name":"keke test","statistic":{"failed":2,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":3}},{"uid":"1a67f4927c1ec81b09a8002431a4cce0","name":"Проверка импорта","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
