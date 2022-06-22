@@ -22,10 +22,10 @@ describe('keke test', () => {
    
    params    | expected
    ${'rmukhamatgaliev@voximplant.com'} | ${200}
-   ${'Milo'} | ${429}
-   ${'o'} | ${429}
-   ${''} | ${400}
-   ${' '} | ${400}
+   ${'Milo'} | ${200}
+   ${'o'} | ${200}
+   ${''} | ${200}
+   ${' '} | ${200}
 
   `('returns $expected when', async ({ params, expected }) => {
     const response = await api().Tests().get(params);
