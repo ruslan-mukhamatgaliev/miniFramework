@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "new rep for miniframework with reporting adn etc",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "jest --config jest.local.js --testTimeout=50000"
   },
