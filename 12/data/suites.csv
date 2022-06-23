@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 23 18:34:39 GMT 2022","Thu Jun 23 18:34:39 GMT 2022","379","","keke test","","keke test","returns 200 when","returns 200 when",""
+"passed","Thu Jun 23 18:34:36 GMT 2022","Thu Jun 23 18:34:36 GMT 2022","3","","Проверка импорта","","Проверка импорта","imports without error","imports without error",""
+"passed","Thu Jun 23 18:34:37 GMT 2022","Thu Jun 23 18:34:37 GMT 2022","95","","keke test","","keke test"," Делаем запрос с некорректным токеном"," Делаем запрос с некорректным токеном",""
+"passed","Thu Jun 23 18:34:36 GMT 2022","Thu Jun 23 18:34:37 GMT 2022","493","","keke test","","keke test"," Делаем запрос"," Делаем запрос",""
